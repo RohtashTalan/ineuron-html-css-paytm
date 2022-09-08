@@ -7,7 +7,7 @@
 
 ![image](https://img.shields.io/badge/Rohtash-Talan-blue)
 
-[<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://fsjs-ineuron-paytm-website-clone.netlify.app/)
+[<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-paytm.netlify.app/)
 
 ## About
 
@@ -26,4 +26,4 @@ This project took me around 10 hour to finish.
 ![image](./screenshot1.png)
 ![image](./screenshot.png)
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-000333?style=for-the-badge&logo=&logoColor=BLACK" />](https://fsjs-ineuron-paytm-website-clone.netlify.app/)
+[<img src= "https://img.shields.io/badge/PROJCET LINK-000333?style=for-the-badge&logo=&logoColor=BLACK" />](https://ineuron-html-css-paytm.netlify.app/)
